@@ -34,11 +34,6 @@
             key-positions = <2 1>;
         };
 
-        b {
-            bindings = <&kp CLCK>;
-            key-positions = <14 13>;
-        };
-
         c {
             bindings = <&kp TAB>;
             key-positions = <26 25>;
